@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني في هذا الظلام
+> طيفك يرافقني في كل منام
+> بين النجوم أبحث عن هواك
+> قلبي ينادي أين لقاك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
