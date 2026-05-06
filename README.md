@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/afkar-btet2assel/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [License Abu Sayed's Afkar Btet2assel](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [License this song: Afkar Btet2assel](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
